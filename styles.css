@@ -99,5 +99,5 @@ body#LoginForm {
 
  @media (max-width: 1090px) {
    .form-heading {
-    text-align: center;
+     text-align: center;}
  } 
